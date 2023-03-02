@@ -4,14 +4,14 @@ Hello There !
 # Obstacle_Avoiding_Robot (Prototype 1)
 Obstacle_Avoiding_Robot
 ## Created by: 
-    ***Churanta Mondal***,
-    ***Ravi teja C***,
-    ***Mahesh babu P***, 
-    ***Deekshan S***,
-    ***Vaihnavi RK***,
-    ***Tejaswani Ghoh***,
-    ***Saurabh***,
-    ***Amruth Raj***
+    Churanta Mondal,
+    Ravi teja C,
+    Mahesh babu P, 
+    Deekshan S,
+    Vaihnavi RK,
+    Tejaswani Ghoh,
+    Saurabh,
+    Amruth Raj
 
 
     
