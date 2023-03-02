@@ -1,15 +1,15 @@
 
 ![Hello There](https://myoctocat.com/assets/images/base-octocat.svg)
-Hello There !
+> Hello There !
 # Obstacle_Avoiding_Robot (Prototype 1)
-Obstacle_Avoiding_Robot
+Its an Internship project by TECH Mahindra 
 ## Created by: 
     Churanta Mondal,
     Ravi teja C,
     Mahesh babu P, 
     Deekshan S,
     Vaihnavi RK,
-    Tejaswani Ghoh,
+    Tejaswani Ghosh,
     Saurabh,
     Amruth Raj
 
