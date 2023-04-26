@@ -4,7 +4,7 @@
 # Obstacle_Avoiding_Robot (Prototype 1)
 Its an Internship project by TECH Mahindra 
 ## Created by: 
-    Churanta Mondal,
+    Churanta Mondal😉 ,
     Ravi teja C,
     Mahesh babu P, 
     Deekshan S,
