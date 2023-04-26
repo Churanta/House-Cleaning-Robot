@@ -5,13 +5,13 @@
 Its an Internship project by TECH Mahindra 
 ## Created by: 
     Churanta Mondal😉 ,
-    Ravi teja C,
-    Mahesh babu P, 
-    Deekshan S,
-    Vaihnavi RK,
-    Tejaswani Ghosh,
-    Saurabh,
-    Amruth Raj
+    Ravi teja C😜 ,
+    Mahesh babu P 🤨, 
+    Deekshan S😊,
+    Vaihnavi RK😍,
+    Tejaswani Ghosh😁,
+    Saurabh🤦‍♂️,
+    Amruth Raj🙂
 
 
     
