@@ -23,4 +23,3 @@ Its an Internship project by TECH Mahindra
 ![WhatsApp Image 2023-04-26 at 19 06 58](https://user-images.githubusercontent.com/83538805/234594129-097e6001-7ae8-468b-871b-251e0d9e219f.jpeg)
 ![WhatsApp Image 2023-04-26 at 19 06 59](https://user-images.githubusercontent.com/83538805/234594131-c3739d4b-fba6-4df9-bf0c-9ab2dff9913f.jpeg)
 # House-Cleaning-Robot
-
